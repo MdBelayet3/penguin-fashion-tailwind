@@ -77,3 +77,4 @@ GitHub: https://github.com/MdBelayet3
 ## Author
 
 Belayet Hossain
+![Image Description](https://github.com/MdBelayet3/penguin-fashion-tailwind/blob/main/Penguin-Fashion.png?raw=true)
